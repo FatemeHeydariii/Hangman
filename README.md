@@ -3,7 +3,7 @@
 A simple Hangman game written in Python.
 
 ## Demo
-![Hangman Demo](assets/hangman.gif)
+![Watch Demo Video](assets/video.mp4)
 
 ## Screenshot
 ![Screenshot](assets/screenshot.png)
